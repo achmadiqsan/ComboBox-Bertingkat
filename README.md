@@ -6,5 +6,5 @@ ComboBox Bertingkat
 NOTE :
 
 1. OS yang di gunakan : Windows 7
-2. Language : PHP
+2. Language : JavaScript
 3. Database : MySQL (Xampp 5.6.28)
